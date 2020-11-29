@@ -1,0 +1,172 @@
+body
+{
+   background-color: #FFFFFF;
+   background-image: url(images/maxresdefault.jpg);
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #000000;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 27px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#wb_loginShape1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#loginShape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#page1Editbox1
+{
+   border: 1px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#555555;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 27px;
+   line-height: 32px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+}
+#page1Editbox1:focus
+{
+   border-color: #66AFE9;
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
+#page1Editbox2
+{
+   border: 1px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#555555;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 27px;
+   line-height: 32px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+}
+#page1Editbox2:focus
+{
+   border-color: #66AFE9;
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
+#page1Editbox3
+{
+   border: 1px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#555555;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 27px;
+   line-height: 32px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+}
+#page1Editbox3:focus
+{
+   border-color: #696969;
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(105,105,105,0.60);
+   outline: 0;
+}
+#page1Button1
+{
+   line-height: 49px;
+   text-align: center;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #696969;
+   border-radius: 14px;
+   background-color: #4F4F4F;
+   background-image: none;
+   color: #F5F5F5;
+   font-family: Impact;
+   font-weight: bold;
+   font-size: 27px;
+   margin: 0;
+}
+#page1Button1:hover
+{
+   color: #1E90FF;
+   -webkit-transition: color 500ms linear 0ms;
+   -moz-transition: color 500ms linear 0ms;
+   transition: color 500ms linear 0ms;
+}
+#wb_uid0
+{
+   position: absolute;
+   left: 441px;
+   top: 967px;
+   margin: 0;
+   border-width: 0;
+   z-index: 250;
+}
+#wb_loginShape1
+{
+   position: absolute;
+   left: 369px;
+   top: 125px;
+   width: 532px;
+   height: 486px;
+   opacity: 0.36;
+   z-index: 0;
+}
+#page1Editbox2
+{
+   position: absolute;
+   left: 427px;
+   top: 302px;
+   width: 145px;
+   height: 32px;
+   z-index: 3;
+}
+#loginShape1
+{
+   width: 532px;
+   height: 486px;
+}
+#page1Editbox3
+{
+   position: absolute;
+   left: 427px;
+   top: 395px;
+   width: 355px;
+   height: 32px;
+   z-index: 4;
+}
+#page1Button1
+{
+   position: absolute;
+   left: 427px;
+   top: 486px;
+   width: 252px;
+   height: 49px;
+   z-index: 5;
+}
+#page1Editbox1
+{
+   position: absolute;
+   left: 427px;
+   top: 196px;
+   width: 145px;
+   height: 32px;
+   z-index: 2;
+}
